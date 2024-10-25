@@ -1,0 +1,632 @@
+[
+  {
+    "name": "Abdominal bloating ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Alopecia ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Amenorrhea ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "ANC ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Angular stomatitis ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Anorexia",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Back pain ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Bells palsy ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Bleeding from anorectal area",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Blurred vision ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Breathlessness",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Burn ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Burning micturition ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Burning sensation in eye ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Burning sensation in whole body ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Chalazion ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Chest pain ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Chest tightness ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Chicken pox ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Complete loss of hearing ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Constipation ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Convulsion ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Convulsion",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Depression ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Difficulty in micturition ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Difficulty in swallowing ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Dizziness ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Dog bite ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Drowning",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Dry cough ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Dry mouth ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Dyspareunia ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Earache ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Eczema ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Electric shock ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Epilepsy ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Epistaxis ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Family Planning Method",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Fatigue ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Fever",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Foot ulcer ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Foreign body in the eye ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Foul smelling vaginal discharge ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Frequency in micturition ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Fungal infection ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "General weakness ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Glossitis ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Goiter ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Gum bleeding ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Haematemesis ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Haemoptysis ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Headache ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Heartburn ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Helitosis ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Hot flushes ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Hygiene and Nutrition ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Hyper salivation ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Indigestion ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Insect bite ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Insomnia ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Itching in anorectal area ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Itching in the ear ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Itching in the eye ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Itching in the vulva ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Itching in whole body ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Joint Pain",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Leucorrhoea ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Loose motion ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Loose Motion",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Loss of appetite\/ Reduced appetite ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Loss of hearing ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Loss of libido ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Loss of weight ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Low back pain",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Lump in the breast ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Lump in the throat ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Macular Rashes in the skin",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Malaise ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Migraine ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Muscle pain ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Myopia ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Nausea ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Neck pain ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Nocturia ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Nocturnal enuresis ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Pain in eye ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Pain in hand ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Pain in left lower abdomen ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Pain in leg ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Pain in right lower abdomen",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Pain in scrotum ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Pain in the gum",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Pain in whole body ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Painful menstruation ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Palpitation",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Paralysis ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Paronychia ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Passage of Blood with Stool ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Photophobia ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "PNC ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Productive cough ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Pyorrhea ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Rabies ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Redness of eye ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Respiratory distress ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Retention of urine ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Runny nose ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Skin rash ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Snake bite ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Sneezing",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Sore throat ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Stabbing abdominal pain ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Stabbing chest pain ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Sty of eye lid ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Swelling of joint ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Tinea ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Tinnitus ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Tiredness ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Toothache",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Trauma in the head",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Traumatic Pain",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Ulcer in the mouth ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Ulcer in the scalp",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Vomiting",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Watery discharge or pus from ear ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Watery eye",
+    "organization": "2",
+    "is_global": "1"
+  }
+]

@@ -1,0 +1,591 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <!-- <meta http-equiv="X-UA-Compatible" content="IE=edge" /> -->
+        <!-- <meta name="viewport" content="width=device-width, initial-scale=1.0" /> -->
+        <!-- <link rel="stylesheet" href="http://127.0.0.1:8080/style.css" /> -->
+        <title>{{ title }}</title>
+        <style>
+            :root {
+                --gray: #666666;
+                --dark-gray: #474747;
+            }
+
+            @media print {
+                body {
+                    margin: 0mm !important;
+                    -webkit-print-color-adjust: exact;
+                    color: #000;
+                }
+                td div {
+                    page-break-inside: avoid;
+                }
+                thead {
+                    display: table-header-group;
+                }
+                .noPrintMargin {
+                    margin: 0px !important;
+                    padding: 0px !important;
+                }
+                @page {
+                    size: A4;
+                    margin: 0.1cm;
+                }
+                @page :first {
+                    margin-top: 0cm;
+                }
+                /* @page :left {
+                    margin-left: 0cm;
+                    margin-right: 0cm;
+                }
+                @page :right {
+                    margin-left: 0cm;
+                    margin-right: 0cm;
+                } */
+            }
+
+            * {
+                margin: 0;
+                padding: 0;
+                outline: none;
+            }
+
+            html,
+            body {
+                height: 100%;
+                margin: 0;
+                width: 100%;
+                position: relative;
+                word-wrap: break-word;
+                font-family: "Roboto", sans-serif;
+                line-height: 1.4;
+                -ms-text-size-adjust: 100%;
+                -webkit-text-size-adjust: 100%;
+                font-size: 13px;
+                -webkit-font-smoothing: antialiased;
+            }
+
+            .print-header {
+                padding: 14px 0px 2px 0px;
+                text-align: center;
+            }
+
+            .print-header h2 {
+                font-size: 20px;
+                padding-bottom: 6px;
+            }
+
+            .print-title {
+                text-align: center;
+            }
+
+            .print-barcode {
+                position: absolute;
+                right: 0;
+                top: 0px;
+                margin: 0px;
+            }
+
+            .fit-barcode-image {
+                height: 65px;
+                width: 185px;
+            }
+
+            .print-stamp {
+                position: absolute;
+                left: 0;
+                top: 3px;
+                border: 2px solid black;
+                padding: 2px 4px;
+                font-size: 18px;
+                font-weight: bold;
+            }
+
+            .font-small {
+                font-size: 13px;
+            }
+
+            .font-xs {
+                font-size: 11px;
+            }
+
+            .terms-and-conditions ul {
+                padding: 0px;
+                margin: 0px;
+                margin-top: 1rem;
+                margin-left: 0.875rem;
+                margin-bottom: 1rem;
+                font-size: 13px;
+                display: block;
+                color: #000;
+            }
+
+            .splitter {
+                display: flex;
+                justify-content: space-between;
+                /* align-items: center; */
+                padding-left: 0px;
+                padding-right: 0px;
+                padding-top: 0.5rem;
+                padding-bottom: 0.5rem;
+            }
+
+            .splitter > div {
+                /* margin-top: 5px; */
+            }
+
+            .splitter label {
+                font-weight: bold;
+                color: #666666;
+            }
+
+            .split-one {
+                flex: 1;
+                padding-right: 10px;
+            }
+
+            .list {
+                padding: 0px;
+            }
+
+            table {
+                width: 100%;
+                word-break: break-all;
+            }
+
+            .list table {
+                /* border: 1px solid #000; */
+                border-collapse: collapse;
+            }
+
+            .list th {
+                border: 1px solid #4f4f4f;
+                border-collapse: collapse;
+                padding: 1px 4px;
+                text-transform: uppercase;
+                font-size: 13px;
+            }
+
+            .list td {
+                border: 1px solid #4f4f4f;
+                border-collapse: collapse;
+                padding: 2px 4px;
+                font-size: 14px;
+            }
+
+            .delivery-details {
+                margin-top: 10px;
+                padding: 0px;
+            }
+
+            .text-align-left {
+                text-align: left;
+            }
+
+            .text-align-right {
+                text-align: right;
+            }
+
+            .print-title h2,
+            .delivery-header h2 {
+                font-weight: 400;
+                padding: 0.5rem 0;
+                font-size: 14px !important;
+            }
+
+
+            .table-row-title {
+                width: 100%;
+            }
+
+            .slogan {
+                text-align: center;
+            }
+
+            .text-muted {
+                color: #818a91;
+                opacity: 0.6;
+            }
+
+            .hr-margin {
+                margin-left: 10px;
+                margin-right: 10px;
+            }
+
+            .no-padding {
+                padding: 0 !important;
+            }
+
+            .font-title {
+                font-size: 20px !important;
+            }
+
+            * {
+                box-sizing: border-box;
+            }
+
+            .row {
+                display: flex;
+                width: 100%;
+            }
+
+            .table-delivery {
+                flex: 60%;
+                padding-right: 1rem;
+            }
+
+            .table-amount {
+                flex: 40%;
+            }
+
+            .table-amount table {
+                padding-left: 1rem;
+            }
+
+            .row table {
+                border-collapse: collapse;
+                border-spacing: 0;
+                width: 100%;
+                border-right: none;
+            }
+
+            .row th, td {
+                text-align: left;
+                padding: 1px;
+            }
+
+            .label {
+                color: var(--gray);
+                font-size: 12px;
+            }
+
+            .font-bold {
+                font-weight: bold;
+            }
+
+            .vertical-line {
+                width: 2px;
+                margin: 0px 1rem;
+                background: #000;
+            }
+
+            .item-name {
+                width: 40%;
+            }
+
+        </style>
+    </head>
+    <body>
+        <div class="content">
+            <div class="print">
+                <div class="print-header">
+                    <h2>{{ organization.name }}</h2>
+                    <p class="font-xs">{{ organization.address }}</p>
+                    <p class="font-xs">
+                        Mobile: {{ organization.contact }} | Email: {{ organization.email }}
+                    </p>
+                </div>
+                <hr class="text-muted">
+                <div class="print-title">
+                    <h2 class="no-padding font-title">{{ header_title }}</h2>
+                    <!-- <hr> -->
+                </div>
+                <hr class="text-muted">
+                {% if timestamp %}
+                    <div class="print-stamp">
+                        {{ timestamp }}
+                    </div>
+                {% endif%}
+
+                <div class="print-barcode">
+                    <img class="fit-barcode-image" src="{{ barcode }}">
+                </div>
+
+                <div class="print-section">
+                    <div class="print-data">
+                        <section>
+                            <div class="splitter">
+                                <div class="split-one">
+                                    <label>Order ID: </label>
+                                    <span>{{ invoice_id_str }}</span>
+                                </div>
+
+                                <div class="split-three">
+                                    <label>Date: </label>
+                                    <span>{{ delivery_date }}</span>
+                                </div>
+                            </div>
+                            <div class="list table-responsive">
+                                <div class="list">
+                                    <table>
+                                        <thead>
+                                            <tr>
+                                                <th class="text-align-left" style="width: 20px;">
+                                                    SL
+                                                </th>
+                                                <th class="text-align-left" style="width: 100%;">
+                                                    ITEM
+                                                </th>
+                                                <th class="text-align-right" style="min-width: 50px">
+                                                    QTY
+                                                </th>
+                                                <th class="text-align-right" style="min-width: 50px">
+                                                    SHORT
+                                                </th>
+                                                <th class="text-align-right" style="min-width: 76px">
+                                                    RATE
+                                                </th>
+                                                <th class="text-align-right" style="min-width: 76px">
+                                                    AMOUNT
+                                                </th>
+                                                <th class="text-align-right" style="min-width: 76px">
+                                                    DISC.
+                                                </th>
+                                                <th class="text-align-right" style="min-width: 76px">
+                                                    NETPAY
+                                                </th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            {% for compartment in compartments %}
+                                            <tr>
+                                                <td class="text-align-left compartment" colspan="8" style="border:none;">
+                                                    <span>
+                                                        {{ compartment.name }}
+                                                    </span>
+                                                </td>
+                                            </tr>
+                                            {% for item in compartment.stock_io_logs %}
+                                            <tr class="table-data pointer"></tr>
+                                                <td class="text-align-left">
+                                                    {{ item.sl_no }}
+                                                </td>
+                                                <td class="text-align-left">
+                                                    <span>
+                                                        {{ item.product_name }}
+                                                    </span>
+                                                </td>
+                                                <td class="text-align-right">
+                                                    <span> {{ item.quantity | int }} </span>
+                                                </td>
+                                                <td class="text-align-right">
+                                                    <span> {{ item.short_quantity | int }} </span>
+                                                </td>
+                                                <td class="text-align-right">
+                                                    <div>{{ '%0.2f'| format(item.rate) }}</div>
+                                                </td>
+                                                <td class="text-align-right">
+                                                    <span>{{ '%0.2f'| format(item.quantity * item.rate) }}</span>
+                                                </td>
+                                                <td class="text-align-right">
+                                                    {{ '%0.2f'| format(item.discount_total) }}
+                                                </td>
+                                                <td class="text-align-right">
+                                                    {{ '%0.2f'| format((item.quantity * item.rate) - item.discount_total) }}
+                                                </td>
+                                            </tr>
+                                            {% endfor %}
+                                            {% endfor %}
+                                            <tr>
+                                                <td class="text-align-left" colspan="2">Total</td>
+                                                <td class="text-align-right">
+                                                    <span>
+                                                        {{ total_quantity | int }}
+                                                    </span>
+                                                </td>
+                                                <td class="text-align-right">
+                                                    <span>
+                                                        {{ total_short_quantity }}
+                                                    </span>
+                                                </td>
+                                                <td colspan="4"></td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+
+                            <div class="delivery-details">
+                                <div class="delivery-header">
+                                    <h2 class="">Delivery Details</h2>
+                                </div>
+
+                                <div class="row">
+                                    <div class="table-delivery">
+                                        <table>
+                                        <tr>
+                                            <td>
+                                                <span class="label font-bold">Order From:</span>
+                                                <span>{{ order_by_organization.name }} (#{{ order_by_organization.id }})</span>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <span class="label font-bold">Mobile:</span>
+                                                <span>{{ order_by_organization.primary_mobile }}</span>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <span class="label font-bold">Area:</span>
+                                                {% if order_by_organization.delivery_sub_area %}
+                                                    <span>{{ order_by_organization.area|title }} ({{ order_by_organization.delivery_sub_area }})</span>
+                                                {% else %}
+                                                    <span>{{ order_by_organization.area|title }}</span>
+                                                {% endif %}
+
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <span class="label font-bold">Address:</span>
+                                                <span>{{ order_by_organization.address }}</span>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <span class="label font-bold">Responsible Person:</span>
+                                                <span>{{ order_by_organization.primary_responsible_person }}</span>
+                                            </td>
+                                        </tr>
+                                        </table>
+                                    </div>
+                                    <div class="vertical-line"></div>
+                                    <div class="table-amount">
+                                        <table class="">
+                                            <tr>
+                                                <td class="border-padding">
+                                                    <span class="label font-bold text-align-right">Amount</span>
+                                                </td>
+                                                <td class="text-align-right p-r-10">
+                                                    <span>{{ '%0.2f'| format(sub_total) }}</span>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td class="border-padding">
+                                                    <span class="label font-bold text-align-right">Discount</span>
+                                                </td>
+                                                <td class="text-align-right p-r-10">
+                                                    <span>{{ '%0.2f'| format(discount) }}</span>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td class="border-padding">
+                                                    <span class="label font-bold text-align-right">Round</span>
+                                                <td class="text-align-right p-r-10">
+                                                    <span>{{ '%0.2f'| format(round_discount) }}</span>
+                                                </td>
+                                            </tr>
+                                            {% if additional_discount %}
+                                                <tr>
+                                                    <td class="border-padding">
+                                                        <span class="label font-bold text-align-right">Additional Discount</span>
+                                                    </td>
+                                                    <td class="text-align-right p-r-10">
+                                                        <span>{{ '%0.2f'| format(additional_discount) }}</span>
+                                                    </td>
+                                                </tr>
+                                            {% endif%}
+                                            {% if additional_cost %}
+                                                <tr>
+                                                    <td class="border-padding">
+                                                        <span class="label font-bold text-align-right">Additional Cost</span>
+                                                    </td>
+                                                    <td class="text-align-right p-r-10">
+                                                        <span>{{ '%0.2f'| format(additional_cost) }}</span>
+                                                    </td>
+                                                </tr>
+                                            {% endif%}
+                                            {% if total_short_amount %}
+                                                <tr>
+                                                    <td class="border-padding">
+                                                        <span class="label font-bold text-align-right">Short Amount</span>
+                                                    </td>
+                                                    <td class="text-align-right p-r-10">
+                                                        <span>{{ '%0.2f'| format(total_short_amount) }}</span>
+                                                    </td>
+                                                </tr>
+                                            {% endif%}
+                                            {% if total_return_amount %}
+                                                <tr>
+                                                    <td class="border-padding">
+                                                        <span class="label font-bold text-align-right">Return Amount</span>
+                                                    </td>
+                                                    <td class="text-align-right p-r-10">
+                                                        <span>{{ '%0.2f'| format(total_return_amount) }}</span>
+                                                    </td>
+                                                </tr>
+                                            {% endif%}
+                                            <tr>
+                                                <td class="border-padding">
+                                                    <span class="label font-bold text-align-right">Grand Total</span>
+                                                </td>
+                                                <td class="text-align-right p-r-10">
+                                                    <span>{{ '%0.2f'| format(grand_total) }}</span>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+
+                    <div class="terms-and-conditions">
+                        <ul>
+                            <!-- <li>
+                                <strong>HealthOS</strong> পাইকারী ফার্মেসীর
+                                প্লাটফর্ম হবার কারণে বিক্রিত পণ্য ফেরত নেয়ার
+                                ব্যবস্থা নেই, তাই আমাদের ডেলিভারি ম্যানের
+                                উপস্থিতিতে সমূদয় মূল্য পরিশোধ করে পণ্য বুঝে নিন
+                                । এতে করে পরবর্তী জটিলতা এড়ানো যায় ।
+                            </li>
+                            <li>
+                                আপনি এই ইনভয়েসে সর্বোচ্চ
+                                <strong>{{ '%0.2f'| format((20 * grand_total)  / 100) }}</strong> টাকার পণ্য ফেরৎ দিতে
+                                পারবেন, অন্যথায় পুরো ইনভয়েসটি বাতিল হয়ে যাবে
+                                ।
+                            </li>
+                            <li>
+                                {{ dynamic_discount_message }}
+                            </li>
+                            <li>
+                                কোন পণ্য ফেরৎ দিলে, বিশেষ ডিসকাউন্ট প্রযোজ্য হবে
+                                না ।
+                            </li>
+                            <li>
+                                দয়া করে ডেলিভারীর জন্য নিযুক্ত ব্যক্তিকে যত
+                                দ্রুত সম্ভব ছেড়ে দিবেন তাহলে অন্যান্য দোকানে
+                                সঠিক সময়ে ডেলিভারী করা যাবে ।
+                            </li>
+                            <li>
+                                আমাদের কোন রকম বকেয়া রেখে পণ্য বিক্রির ব্যবস্থা
+                                নেই, তাই সম্মানীত গ্রাহককে এমন বিব্রতকর প্রস্তাব
+                                না দেবার অনুরোধ করা হচ্ছে ।
+                            </li>
+                            <li>
+                                ডেলিভারী বিষয়ক যেকোন অভিযোগের জন্য
+                                <strong>{{ organization.contact }}</strong> এই নম্বরে যোগাযোগ
+                                করুন ।
+                            </li> -->
+                            <li>
+                                আপনি এই ইনভয়েসে সর্বচ্চো <strong>{{ '%0.2f'| format((20 * grand_total)  / 100) }}</strong> টাকার পণ্য ফেরত দিতে পারবেন, 
+                                এর বেশি হলে পুরো ইনভয়েস বাতিল করা হবে, ডেলিভারি ম্যান এর উপস্থিতিতে পণ্য বুঝে নিয়ে সমুদয় মূল্য পরিশোধ এর অনুরোধ করা হল ।
+                            </li>
+                            <li>
+                                {{ dynamic_discount_message }}
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div class="slogan">
+                        <div>
+                            <strong> *** ফার্মেসীর বন্ধু HealthOS *** </strong>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

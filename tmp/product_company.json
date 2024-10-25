@@ -1,0 +1,122 @@
+[
+	{
+		"name" : "Square",
+		"organization" : 2,
+		"is_global" : 1
+	},
+	{
+		"name" : "Jayson",
+		"organization" : 2,
+		"is_global" : 1
+	},
+	{
+		"name" : "Beximco",
+		"organization" : 2,
+		"is_global" : 1
+	},
+	{
+		"name" : "IBN SINA",
+		"organization" : 2,
+		"is_global" : 1
+	},
+	{
+		"name" : "Glaxo",
+		"organization" : 2,
+		"is_global" : 1
+	},
+	{
+		"name" : "ACI",
+		"organization" : 2,
+		"is_global" : 1
+	},
+	{
+		"name" : "Opsonin",
+		"organization" : 2,
+		"is_global" : 1
+	},
+	{
+		"name" : "Incepta",
+		"organization" : 2,
+		"is_global" : 1
+	},
+	{
+		"name" : "SMC",
+		"organization" : 2,
+		"is_global" : 1
+	},
+	{
+		"name" : "Renata",
+		"organization" : 2,
+		"is_global" : 1
+	},
+	{
+		"name" : "Aventis",
+		"organization" : 2,
+		"is_global" : 1
+	},
+	{
+		"name" : "BRAC",
+		"organization" : 2,
+		"is_global" : 1
+	},
+	{
+		"name" : "Fresh",
+		"organization" : 2,
+		"is_global" : 1
+	},
+	{
+		"name" : "Unilever",
+		"organization" : 2,
+		"is_global" : 1
+	},
+	{
+		"name" : "Durg International",
+		"organization" : 2,
+		"is_global" : 1
+	},
+	{
+		"name" : "SK+F",
+		"organization" : 2,
+		"is_global" : 1
+	},
+	{
+		"name" : "China",
+		"organization" : 2,
+		"is_global" : 1
+	},
+	{
+		"name" : "Eskayef",
+		"organization" : 2,
+		"is_global" : 1
+	},
+	{
+		"name" : "ACME",
+		"organization" : 2,
+		"is_global" : 1
+	},
+	{
+		"name" : "GOB",
+		"organization" : 2,
+		"is_global" : 1
+	},
+	{
+		"name" : "Reckitt Benckiser",
+		"organization" : 2,
+		"is_global" : 1
+	},
+	{
+		"name" : "Molla",
+		"organization" : 2,
+		"is_global" : 1
+	},
+	{
+		"name" : "Unique",
+		"organization" : 2,
+		"is_global" : 1
+	},
+	{
+		"name" : "Aristopharma",
+		"organization" : 2,
+		"is_global" : 1
+	}
+]

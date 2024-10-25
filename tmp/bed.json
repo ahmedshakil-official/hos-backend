@@ -1,0 +1,296 @@
+[
+  {
+    "name": "F4-B1",
+    "description": "",
+    "is_global": false,
+    "organization": "2",
+    "status": "1"
+  },
+  {
+    "name": "F4-B2",
+    "description": "",
+    "is_global": false,
+    "organization": "2",
+    "status": "1"
+  },
+  {
+    "name": "F4-B2",
+    "description": "",
+    "is_global": false,
+    "organization": "2",
+    "status": "1"
+  },
+  {
+    "name": "F4-B3",
+    "description": "",
+    "is_global": false,
+    "organization": "2",
+    "status": "1"
+  },
+  {
+    "name": "F4-B4",
+    "description": "",
+    "is_global": false,
+    "organization": "2",
+    "status": "1"
+  },
+  {
+    "name": "F4-B5",
+    "description": "",
+    "is_global": false,
+    "organization": "2",
+    "status": "1"
+  },
+  {
+    "name": "F4-B6",
+    "description": "",
+    "is_global": false,
+    "organization": "2",
+    "status": "1"
+  },
+  {
+    "name": "F4-B7",
+    "description": "",
+    "is_global": false,
+    "organization": "2",
+    "status": "1"
+  },
+  {
+    "name": "F4-B8",
+    "description": "",
+    "is_global": false,
+    "organization": "2",
+    "status": "1"
+  },
+  {
+    "name": "F4-B9",
+    "description": "",
+    "is_global": false,
+    "organization": "2",
+    "status": "1"
+  },
+  {
+    "name": "F4-B10",
+    "description": "",
+    "is_global": false,
+    "organization": "2",
+    "status": "1"
+  },
+  {
+    "name": "F4-B11",
+    "description": "",
+    "is_global": false,
+    "organization": "2",
+    "status": "1"
+  },
+  {
+    "name": "F4-B12",
+    "description": "",
+    "is_global": false,
+    "organization": "2",
+    "status": "1"
+  },
+  {
+    "name": "F4-B13",
+    "description": "",
+    "is_global": false,
+    "organization": "2",
+    "status": "1"
+  },
+  {
+    "name": "F4-B14",
+    "description": "",
+    "is_global": false,
+    "organization": "2",
+    "status": "1"
+  },
+  {
+    "name": "F4-B15",
+    "description": "",
+    "is_global": false,
+    "organization": "2",
+    "status": "1"
+  },
+  {
+    "name": "F4-B16",
+    "description": "",
+    "is_global": false,
+    "organization": "2",
+    "status": "1"
+  },
+  {
+    "name": "F4-B17",
+    "description": "",
+    "is_global": false,
+    "organization": "2",
+    "status": "1"
+  },
+  {
+    "name": "F4-B18",
+    "description": "",
+    "is_global": false,
+    "organization": "2",
+    "status": "1"
+  },
+  {
+    "name": "F4-B19",
+    "description": "",
+    "is_global": false,
+    "organization": "2",
+    "status": "1"
+  },
+  {
+    "name": "F4-B20",
+    "description": "",
+    "is_global": false,
+    "organization": "2",
+    "status": "1"
+  },
+  {
+    "name": "F4-B21",
+    "description": "",
+    "is_global": false,
+    "organization": "2",
+    "status": "1"
+  },
+  {
+    "name": "F4-B22",
+    "description": "",
+    "is_global": false,
+    "organization": "2",
+    "status": "1"
+  },
+  {
+    "name": "F4-B23",
+    "description": "",
+    "is_global": false,
+    "organization": "2",
+    "status": "1"
+  },
+  {
+    "name": "F4-B24",
+    "description": "",
+    "is_global": false,
+    "organization": "2",
+    "status": "1"
+  },
+  {
+    "name": "F4-B25",
+    "description": "",
+    "is_global": false,
+    "organization": "2",
+    "status": "1"
+  },
+  {
+    "name": "F4-B26",
+    "description": "",
+    "is_global": false,
+    "organization": "2",
+    "status": "1"
+  },
+  {
+    "name": "F4-B27",
+    "description": "",
+    "is_global": false,
+    "organization": "2",
+    "status": "1"
+  },
+  {
+    "name": "F4-B28",
+    "description": "",
+    "is_global": false,
+    "organization": "2",
+    "status": "1"
+  },
+  {
+    "name": "F4- ICU 1",
+    "description": "",
+    "is_global": false,
+    "organization": "2",
+    "status": "1"
+  },
+  {
+    "name": "F4- ICU 2",
+    "description": "",
+    "is_global": false,
+    "organization": "2",
+    "status": "1"
+  },
+  {
+    "name": "F4- ICU 3",
+    "description": "",
+    "is_global": false,
+    "organization": "2",
+    "status": "1"
+  },
+  {
+    "name": "F4- ICU 4",
+    "description": "",
+    "is_global": false,
+    "organization": "2",
+    "status": "1"
+  },
+  {
+    "name": "F4- ICU 5",
+    "description": "",
+    "is_global": false,
+    "organization": "2",
+    "status": "1"
+  },
+  {
+    "name": "F4- ICU Positive 1",
+    "description": "",
+    "is_global": false,
+    "organization": "2",
+    "status": "1"
+  },
+  {
+    "name": "F4- ICU HbV Positive 1",
+    "description": "",
+    "is_global": false,
+    "organization": "2",
+    "status": "1"
+  },
+  {
+    "name": "F4- ICU HbV Positive 2",
+    "description": "",
+    "is_global": false,
+    "organization": "2",
+    "status": "1"
+  },
+  {
+    "name": "F4- ICU HbV Positive 3",
+    "description": "",
+    "is_global": false,
+    "organization": "2",
+    "status": "1"
+  },
+  {
+    "name": "F4- ICU HcV Positive 1",
+    "description": "",
+    "is_global": false,
+    "organization": "2",
+    "status": "1"
+  },
+  {
+    "name": "F4- ICU HcV Positive 2",
+    "description": "",
+    "is_global": false,
+    "organization": "2",
+    "status": "1"
+  },
+  {
+    "name": "F4- ICU HcV Positive 3",
+    "description": "",
+    "is_global": false,
+    "organization": "2",
+    "status": "1"
+  },
+  {
+    "name": "F4- ICU HcV Positive 4",
+    "description": "",
+    "is_global": false,
+    "organization": "2",
+    "status": "1"
+  }
+]

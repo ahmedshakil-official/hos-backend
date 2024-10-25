@@ -1,0 +1,233 @@
+[
+	{
+		"name": "APC Pharma Limited",
+		"duplicate": [
+			{
+				"name": "APC Pharma Ltd."
+			}
+		]
+	},
+	{
+		"name": "Apex Pharma Limited.",
+		"duplicate": [
+			{
+				"name": "Apex Pharma Ltd."
+			}
+		]
+	},
+	{
+		"name": "Aristopharma Limited",
+		"duplicate": [
+			{
+				"name": "Aristopharma Limited, Gazipur"
+			}
+		]
+	},
+	{
+		"name": "Beximco Pharmaceuticals Ltd.",
+		"duplicate": [
+			{
+				"name": "Beximco Pharmaceuticals Ltd., Kaliakoir"
+			}
+		]
+	},
+	{
+		"name": "Bios Pharmaceutical Ltd.",
+		"duplicate": [
+			{
+				"name": "Bios Pharmaceuticals Ltd."
+			}
+		]
+	},
+	{
+		"name": "Cosmic Chemical Industries Ltd.",
+		"duplicate": [
+			{
+				"name": "Cosmic Pharma Ltd."
+			}
+		]
+	},
+	{
+		"name": "EDCL (Dhaka)",
+		"duplicate": [
+			{
+				"name": "EDCL (Bogra)"
+			}
+		]
+	},
+	{
+		"name": "Eskayef Pharmaceuticals Ltd.",
+		"duplicate": [
+			{
+				"name": "Eskayef Pharmaceuticals Ltd. Mirpur."
+			},
+			{
+				"name": "Eskayef Pharmaceuticals Ltd., Narayanganj"
+			},
+			{
+				"name": "Eskayef Pharmaceuticals Ltd., Tongi,Gazipur"
+			}
+		]
+	},
+	{
+		"name": "F. Hoffmann La Roche,Switzerland",
+		"duplicate": [
+			{
+				"name": "F.Hoffmann La Roche, Switzerland"
+			}
+		]
+	},
+	{
+		"name": "FnF Pharmaceuticals Ltd.",
+		"duplicate": [
+			{
+				"name": "F N F Pharmaceuticals Ltd."
+			}
+		]
+	},
+	{
+		"name": "Incepta Pharmaceuticals Ltd. (Dhamrai Unit)",
+		"duplicate": [
+			{
+				"name": "Incepta Vaccine Limited"
+			}
+		]
+	},
+	{
+		"name": "Indobangla Pharmaceuticals",
+		"duplicate": [
+			{
+				"name": "Indo-Bangla Pharmaceuticals Ltd."
+			}
+		]
+	},
+	{
+		"name": "Les Laboratories Servier Industrie,France",
+		"duplicate": [
+			{
+				"name": "Les Laboratories Servier"
+			}
+		]
+	},
+	{
+		"name": "Lilly France SA, France",
+		"duplicate": [
+			{
+				"name": "Lilly France S.A.S"
+			}
+		]
+	},
+	{
+		"name": "Novo Healthcare and Pharma Ltd.",
+		"duplicate": [
+			{
+				"name": "Novo Healthcare and Pharma Ltd. (Unit-2)"
+			}
+		]
+	},
+	{
+		"name": "Phoenix Chemicals Laboratories (BD) Ltd.",
+		"duplicate": [
+			{
+				"name": "Phoenix Chemicals Laboratory (BD) Ltd."
+			}
+		]
+	},
+	{
+		"name": "Quality Pharmaceuticals Ltd.",
+		"duplicate": [
+			{
+				"name": "Quality Pharmaceuticals (Pvt) Ltd."
+			}
+		]
+	},
+	{
+		"name": "Reckitt & Benckiser Bangladesh Ltd.",
+		"duplicate": [
+			{
+				"name": "Reckitt Benckiser Bangladesh Ltd."
+			}
+		]
+	},
+	{
+		"name": "Radiant Pharmaceutical Ltd.",
+		"duplicate": [
+			{
+				"name": "Radiant Pharmaceuticals Ltd."
+			}
+		]
+	},
+	{
+		"name": "Renata Limited",
+		"duplicate": [
+			{
+				"name": "Renata Limited, Gazipur"
+			}
+		]
+	},
+	{
+		"name": "Roche SpA, Italy",
+		"duplicate": [
+			{
+				"name": "Roche Spa, ItalyF. Hoffmann La Roche,Switzerland"
+			}
+		]
+	},
+	{
+		"name": "S. A. Alcon Couvreur N.V.,Belgium",
+		"duplicate": [
+			{
+				"name": "S.A. Alcon Couvreur.,N.V., Belgium"
+			}
+		]
+	},
+	{
+		"name": "Sanofi-aventis DeutschlandGmbH, Germany",
+		"duplicate": [
+			{
+				"name": "Sanofi Aventis, Germany"
+			}
+		]
+	},
+	{
+		"name": "SMC Enterprise Limited",
+		"duplicate": [
+			{
+				"name": "SMC Enterprise Limited Bangladesh"
+			}
+		]
+	},
+	{
+		"name": "Square Pharmaceuticals Ltd.",
+		"duplicate": [
+			{
+				"name": "Square Pharmaceuticals Ltd. (Chemical Division)"
+			},
+			{
+				"name": "Square Pharmaceuticals Ltd. Gazipur"
+			},
+			{
+				"name": "Square Pharmaceuticals Ltd. Pabna"
+			}
+		]
+	},
+	{
+		"name": "Sunman-Birdem Pharma Ltd.",
+		"duplicate": [
+			{
+				"name": "SUNMAN-BIRDEM Pharma Ltd"
+			}
+		]
+	},
+	{
+		"name": "Techno Drugs Ltd.",
+		"duplicate": [
+			{
+				"name": "Techno Drugs Ltd., Unit-2"
+			},
+			{
+				"name": "Techno Drugs (Unit-3)"
+			}
+		]
+	}
+]

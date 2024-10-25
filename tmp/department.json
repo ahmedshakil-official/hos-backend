@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Petigems",
+    "description": "none",
+    "is_global": 1,
+    "organization": "2",
+    "status": 1
+  },
+  {
+    "name": "Portica",
+    "description": "none",
+    "is_global": 1,
+    "organization": "2",
+    "status": 1
+  }
+]

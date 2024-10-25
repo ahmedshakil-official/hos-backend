@@ -1,0 +1,987 @@
+[
+  {
+    "product_id": 8743,
+    "status": 0,
+    "is_global": 1
+  },
+  {
+    "product_id": 8746,
+    "status": 0,
+    "is_global": 1
+  },
+  {
+    "product_id": 8829,
+    "status": 0,
+    "is_global": 1
+  },
+  {
+    "product_id": 8897,
+    "status": 0,
+    "is_global": 1
+  },
+  {
+    "product_id": 8898,
+    "status": 0,
+    "is_global": 1
+  },
+  {
+    "product_id": 8900,
+    "status": 0,
+    "is_global": 1
+  },
+  {
+    "product_id": 9431,
+    "status": 0,
+    "is_global": 1
+  },
+  {
+    "product_id": 12435,
+    "status": 0,
+    "is_global": 1
+  },
+  {
+    "product_id": 13894,
+    "status": 0,
+    "is_global": 1
+  },
+  {
+    "product_id": 14247,
+    "status": 0,
+    "is_global": 1
+  },
+  {
+    "product_id": 14473,
+    "status": 0,
+    "is_global": 1
+  },
+  {
+    "product_id": 14933,
+    "status": 0,
+    "is_global": 1
+  },
+  {
+    "product_id": 16663,
+    "status": 0,
+    "is_global": 1
+  },
+  {
+    "product_id": 16668,
+    "status": 0,
+    "is_global": 1
+  },
+  {
+    "product_id": 16669,
+    "status": 0,
+    "is_global": 1
+  },
+  {
+    "product_id": 16902,
+    "status": 0,
+    "is_global": 1
+  },
+  {
+    "product_id": 18187,
+    "status": 0,
+    "is_global": 1
+  },
+  {
+    "product_id": 18225,
+    "status": 0,
+    "is_global": 1
+  },
+  {
+    "product_id": 18261,
+    "status": 0,
+    "is_global": 1
+  },
+  {
+    "product_id": 18362,
+    "status": 0,
+    "is_global": 1
+  },
+  {
+    "product_id": 19603,
+    "status": 0,
+    "is_global": 1
+  },
+  {
+    "product_id": 21697,
+    "status": 0,
+    "is_global": 1
+  },
+  {
+    "product_id": 22871,
+    "status": 0,
+    "is_global": 1
+  },
+  {
+    "product_id": 25030,
+    "status": 0,
+    "is_global": 1
+  },
+  {
+    "product_id": 26376,
+    "status": 0,
+    "is_global": 1
+  },
+  {
+    "product_id": 28238,
+    "status": 0,
+    "is_global": 1
+  },
+  {
+    "product_id": 28241,
+    "status": 0,
+    "is_global": 1
+  },
+  {
+    "product_id": 30966,
+    "status": 0,
+    "is_global": 1
+  },
+  {
+    "product_id": 31439,
+    "status": 0,
+    "is_global": 1
+  },
+  {
+    "product_id": 31490,
+    "status": 0,
+    "is_global": 1
+  },
+  {
+    "product_id": 33145,
+    "status": 0,
+    "is_global": 1
+  },
+  {
+    "product_id": 34376,
+    "status": 0,
+    "is_global": 1
+  },
+  {
+    "product_id": 34435,
+    "status": 0,
+    "is_global": 1
+  },
+  {
+    "product_id": 34623,
+    "status": 0,
+    "is_global": 1
+  },
+  {
+    "product_id": 34926,
+    "status": 0,
+    "is_global": 1
+  },
+  {
+    "product_id": 35072,
+    "status": 0,
+    "is_global": 1
+  },
+  {
+    "product_id": 35188,
+    "status": 0,
+    "is_global": 1
+  },
+  {
+    "product_id": 35505,
+    "status": 0,
+    "is_global": 1
+  },
+  {
+    "product_id": 35628,
+    "status": 0,
+    "is_global": 1
+  },
+  {
+    "product_id": 36657,
+    "status": 0,
+    "is_global": 1
+  },
+  {
+    "product_id": 36669,
+    "status": 0,
+    "is_global": 1
+  },
+  {
+    "product_id": 36712,
+    "status": 0,
+    "is_global": 1
+  },
+  {
+    "product_id": 36713,
+    "status": 0,
+    "is_global": 1
+  },
+  {
+    "product_id": 37023,
+    "status": 0,
+    "is_global": 1
+  },
+  {
+    "product_id": 37061,
+    "status": 0,
+    "is_global": 1
+  },
+  {
+    "product_id": 37066,
+    "status": 0,
+    "is_global": 1
+  },
+  {
+    "product_id": 37234,
+    "status": 0,
+    "is_global": 1
+  },
+  {
+    "product_id": 37403,
+    "status": 0,
+    "is_global": 1
+  },
+  {
+    "product_id": 38606,
+    "status": 0,
+    "is_global": 1
+  },
+  {
+    "product_id": 38883,
+    "status": 0,
+    "is_global": 1
+  },
+  {
+    "product_id": 38913,
+    "status": 0,
+    "is_global": 1
+  },
+  {
+    "product_id": 89287,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 89452,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 89453,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 89583,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 89601,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 90761,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 90778,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 90824,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 90828,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 91185,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 91204,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 91226,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 91281,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 91286,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 91395,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 91533,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 91548,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 91610,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 91654,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 91888,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 91925,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 91944,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 92272,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 92569,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 94293,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 94355,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 94356,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 94357,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 94547,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 94790,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 95269,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 95506,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 95548,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 95675,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 95691,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 95902,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 96078,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 96083,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 96086,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 96351,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 96355,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 96621,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 96622,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 96659,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 96665,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 97391,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 97413,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 97661,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 97662,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 97663,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 98408,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 98422,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 98429,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 98430,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 98790,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 98881,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 99614,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 100138,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 100605,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 100837,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 100866,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 101143,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 101144,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 101713,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 101734,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 102567,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 102823,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 103656,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 103671,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 103761,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 103782,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 103784,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 104077,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 105662,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 107861,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 107942,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 107943,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 108477,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 108480,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 108521,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 110620,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 110621,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 110665,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 110667,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 111035,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 111036,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 111037,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 111038,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 111039,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 111189,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 111575,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 111576,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 111624,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 111935,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 112628,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 113062,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 113377,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 113687,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 113688,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 113689,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 113690,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 113691,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 113692,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 113693,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 113694,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 113695,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 113696,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 113697,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 113698,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 113700,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 113701,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 113702,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 113703,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 113704,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 113705,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 113706,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 113707,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 113708,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 113709,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 113710,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 113713,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 113714,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 114420,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 114779,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 115401,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 115402,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 115403,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 115404,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 115405,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 115406,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 115407,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 115408,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 115409,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 115935,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 117066,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 118812,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 118814,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 118815,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 121179,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 121180,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 121268,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 121269,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 121906,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 122835,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 132976,
+    "status": 0,
+    "is_global": 0
+  },
+  {
+    "product_id": 132977,
+    "status": 0,
+    "is_global": 0
+  }
+]

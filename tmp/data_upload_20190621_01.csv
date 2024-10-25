@@ -1,0 +1,4 @@
+pi,form,name,strength,generic,company,full_name,code,su,pu,ps,sp,pp,rack,demand,subgroup,b1,s1,e1,b2,s2,e2,b3,s3,e3,b4,s4,e4,b5,s5,e5,b6,s6,e6,b7,s7,e7,b8,s8,e8,b9,s9,e9,b10,s10,e10,organization_id,organization_name,storepoint_id,storepoint_name,file_ext
+0,Injection2,ketlac 2,30mg/ml,Ketorolac Tromethamine, Boehringer Ingelheim Phar,Injection ketlac 30mg/ml,,pcs,pcs,1,0,0,,,,K1,50,2020-05-11,,,,,,,K2,100,,,,,,,,,,,,,,,,,,,,40,Test Stock Script,93,Test Stock Script,data_upload_20190621_01.csv
+0,Injection,ketlac 2,30mg/ml,Ketorolac Tromethamine, Boehringer Ingelheim Phar,Injection ketlac 30mg/ml,,pcs,pcs,1,0,0,,,,,50,2020-05-11,,,,,,,K2,100,,,,,,,,,,,,,,,,,,,,125,Organization Test,206,Organization Test,20190621_01
+0,Injection2,ketlac 2,30mg/ml,Ketorolac Tromethamine, Boehringer Ingelheim Phar,Injection ketlac 30mg/ml,,pcs,pcs,1,0,0,,,,K1,50,2020-05-11,,,,,,,K2,200,,,,,,,,,,,,,,,,,,,,125,Organization Test,206,Organization Test,20190621_01

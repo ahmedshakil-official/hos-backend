@@ -1,0 +1,137 @@
+[
+    {
+        "name": "General",
+        "description": "",
+        "status": "0"
+    },
+    {
+        "name": "Salesman",
+        "description": "",
+        "status": "0"
+    },
+    {
+        "name": "Laboratory",
+        "description": "",
+        "status": "0"
+    },
+    {
+        "name": "Procurement",
+        "description": "",
+        "status": "0"
+    },
+    {
+        "name": "Nurse",
+        "description": "",
+        "status": "0"
+    },
+    {
+        "name": "Physician",
+        "description": "",
+        "status": "0"
+    },
+    {
+        "name": "Patient",
+        "description": "",
+        "status": "0"
+    },
+    {
+        "name": "Admin",
+        "description": "",
+        "status": "0"
+    },
+    {
+        "name": "Accounts",
+        "description": "",
+        "status": "0"
+    },
+    {
+        "name": "Prescriber",
+        "description": "",
+        "status": "0"
+    },
+    {
+        "name": "SalesReturn",
+        "description": "",
+        "status": "0"
+    },
+    {
+        "name": "Adjustment",
+        "description": "",
+        "status": "0"
+    },
+    {
+        "name": "DeliveryMan",
+        "description": "Permission for Delivery Man",
+        "status": "0"
+    },
+    {
+        "name": "ProcurementOverPurchase",
+        "description": "Permission for Procurement Over Purchase",
+        "status": "0"
+    },
+    {
+        "name": "PredictionItemWorstRateEdit",
+        "description": "Permission for Prediction Item Worst Rate Edit",
+        "status": "0"
+    },
+    {
+        "name": "TeleMarketing",
+        "description": "Permission for Tele Marketing",
+        "status": "0"
+    },
+    {
+        "name": "OlderInvoiceStatusChange",
+        "description": "Permission for allowing status change for older invoice",
+        "status": "0"
+    },
+    {
+        "name": "Marketing",
+        "description": "Permission for Marketing",
+        "status": "0"
+    },
+    {
+        "name": "DeliveryHub",
+        "description": "Permission for Delivery Hub",
+        "status": "0"
+    },
+    {
+        "name": "Distribution T1",
+        "description": "Permission for Distribution T1",
+        "status": "0"
+    },
+    {
+        "name": "Distribution T2",
+        "description": "Permission for Distribution T2",
+        "status": "0"
+    },
+    {
+        "name": "Distribution T3",
+        "description": "Permission for Distribution T3",
+        "status": "0"
+    },
+    {
+        "name": "Front Desk (Product Return)",
+        "description": "Permission for Front Desk (Product Return)",
+        "status": "0"
+    },
+    {
+        "name": "Procurement Manager",
+        "description": "Permission for Procurement Manager",
+        "status": "0"
+    },
+    {
+        "name": "Sales Coordinator",
+        "description": "Permission for Sales Coordinator",
+        "status": "0"
+    },
+    {
+        "name": "Sales Manager",
+        "description": "Permission for Sales Manager",
+        "status": "0"
+    },
+    {
+        "name": "Procurement Coordinator",
+        "description": "Permission for Procurement Coordinator",
+        "status": "0"
+    }
+]

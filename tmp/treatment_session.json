@@ -1,0 +1,37 @@
+[
+  {
+    "name": "I = 07:00 AM -11:00 AM",
+    "description": "",
+    "is_global": false,
+    "organization": "2",
+    "status": "1"
+  },
+  {
+    "name": "II = 11.30AM -3.30 PM",
+    "description": "",
+    "is_global": false,
+    "organization": "2",
+    "status": "1"
+  },
+  {
+    "name": "III = 04.30 PM -8.30 PM",
+    "description": "",
+    "is_global": false,
+    "organization": "2",
+    "status": "1"
+  },
+  {
+    "name": "IV = 09:00 PM - 01:00 AM",
+    "description": "",
+    "is_global": false,
+    "organization": "2",
+    "status": "1"
+  },
+  {
+    "name": "V = 02:00 AM - 06:00 AM",
+    "description": "",
+    "is_global": false,
+    "organization": "2",
+    "status": "1"
+  }
+]

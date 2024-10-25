@@ -1,0 +1,35 @@
+[
+    {   
+        "date": "2017-12-22",
+        "organization": 1,
+        "employee": 2249,
+        "data": [
+            {
+                "product": 419,
+                "store_point": 42,
+                "batch": "TXD1-1",
+                "qty": 11120
+            },
+            {
+                "product": 327,
+                "store_point": 3,
+                "batch": "TXD1-2",
+                "qty": 23300
+            },
+            {
+                "product": 328,
+                "store_point": 3,
+                "batch": "TXD1-3",
+                "qty": 31320
+            },
+            {
+                "product": 393,
+                "store_point": 42,
+                "batch": "TXD1-4",
+                "qty": 51340
+            }
+
+        ]
+    }
+    
+]

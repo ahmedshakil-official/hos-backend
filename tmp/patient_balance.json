@@ -1,0 +1,13 @@
+[
+    {
+      "organization": 1,
+      "code": "GDC001255",
+      "balance": 1600
+    },
+    {
+        "organization": 1,
+        "code": "GDC002128",
+        "balance": -300
+      }
+  
+]

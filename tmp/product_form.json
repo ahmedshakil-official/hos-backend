@@ -1,0 +1,92 @@
+[
+	{
+		"name" : "",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Capsule",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Contraceptive",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Cream",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Drop",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Emulsion",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Micronutrient",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Ointment",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Salt",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Soap",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Solution",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Sprinkle",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Strips",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Suspension",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Syp",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Syrup",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Tablet",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Toiletries",
+		"is_global" : 1,
+		"organization" : 2
+	}
+]

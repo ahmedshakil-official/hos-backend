@@ -1,0 +1,72 @@
+version: '2.0'
+
+networks:
+  djangonetwork:
+    driver: bridge
+    
+services:
+  # the main project service
+  django:
+    restart: always
+    build:
+      context: .
+      dockerfile: Dockerfile
+    command: bash -c "python3 projectile/manage.py runserver 0.0.0.0:8000"
+    ports:
+      - 80:8000
+    volumes:
+      - .:/home/django/project
+    links:
+      - database
+      - elasticsearch
+      - redis
+    depends_on:
+      - database
+      - elasticsearch
+      - redis
+    networks:
+      - djangonetwork
+
+  database:
+    image: postgres:13-alpine
+    container_name: omis-postgres
+    volumes:
+      - ../disk/db:/var/lib/postgresql/data
+      - .:/opt/
+    environment:
+      - POSTGRES_USER=django
+      - POSTGRES_PASSWORD=weakpass
+      - POSTGRES_DB=django
+      - POSTGRES_HOST_AUTH_METHOD=trust
+      - fsync=off
+    command: -c "fsync=off"
+    ports:
+      - 5432:5432
+    networks:
+      - djangonetwork
+
+  elasticsearch:
+    image: elasticsearch:7.11.1
+    container_name: omis-elasticsearch
+    environment:
+      - http.host=0.0.0.0
+      - transport.host=0.0.0.0
+      - node.name=es01
+      - cluster.name=es-docker-cluster
+      - discovery.type=single-node      
+      - "ES_JAVA_OPTS=-Xms1g -Xmx1g"
+    ports:
+      - 9200:9200
+      - 9300:9300
+    volumes:
+      - ../disk/es:/usr/share/elasticsearch/data
+    networks:
+      - djangonetwork
+
+  redis:
+    image: redis:6.2
+    container_name: omis-redis
+    ports:
+      - 6379:6379
+    networks:
+      - djangonetwork

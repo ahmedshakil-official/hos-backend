@@ -1,0 +1,787 @@
+[
+  {
+    "name": "Anorectal Herpes",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Herpes Genitalia",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Lymphogranuloma Venerum",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Lower Abdominal Pain (LAP)",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Granuloma Inguinale",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Genital Ulcer (GU)",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Pelvic Inflammatory Disease (PID)",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Pediculosis ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Scrotal Swelling (SS)",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Sexually Transmitted Infection (STI) (Maternal)",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Scabies (Adult)",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Urethral Discharge (UD)",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Vaginal Discharge (VD)",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Antenatal Care (ANC)",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Postnatal Care (PNC)",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Tetanus Toxoid (TT) for preg. women (5-7months)",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Tetanus Toxoid (TT) for non-preg. women (15-49yrs)",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Lab tests for pregnant women during ANC & PNC",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Normal Vaginal Delivery (NVD)",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Caesarean Section (CS)",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Dysmenorrhoea",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Per Vaginal bleeding due to any cause ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Uterine Prolapse",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Rectal Prolapse",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Mastalgia (Breast pain)",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Abscess (Breast)",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Post Abortion Care",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Pregnancy complication (pre, during and post)",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Urinary Tract Infection (UTI) (Maternal)",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Eclampsia",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Preeclampsia",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Convulsion (Maternal)",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Essential Newborn Care (ENC) - 0-28 days",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Bacilli Calmette-Guerin (BCG)",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "DPT-1\/Polio-1\/Hepatitis-1",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "DPT-2\/Polio-2\/Hepatitis-2",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "DPT-3\/Polio-3\/Hepatitis-3",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Measles\/Polio-4",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Vitamin-A with Measles vaccination (9-59 months)",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Control of Diarrhoeal Diseases(CDD) < 5 years",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Bacillary Dysentery (Child)",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Febrile Convulsion",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Fever (Child)",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Jaundice (Child)",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Skin diseases (Child)",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Worm infestation (Child)",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Conjunctivitis (Child)",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Neonatal Conjunctivitis ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Hydrocele (Child)",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Acute Respiratory Infection (ARI) < 5 years",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Accidental injury (first aid)",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Drowning",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Minor Surgery (Child)",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Ear problem (CSOM)",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Dysentery (Child)",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Amoebiasis",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Pneumonia",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Burn injury ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Congenital abnormalities",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Poisoning (Child)",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Scabies (Child)",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Asthma (Adult)",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Minor surgery (Adult)",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Abscess in any region",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Diabetes Mellitus (Adult)",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Fever (Adult)",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Pyrexia of Unknown Origin > 10 days",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Reproductive Tract Infection (RTI)",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Sexually Transmitted Infection (STI) (Adult)",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Worm infestation (Adult)",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Skin disease  (Adult)",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Peptic Ulcer Disease (PUD)",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Diarrhoea",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Dysentery  (Adult)",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Jaundice  (Adult)",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Asthma (Child)",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Chronic Obstructive Pulmonary Disease (COPD)",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "General Weakness",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Low Back Pain",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Severe Headache",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Arthritic pain (Joint Pain)",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Acute abdomen ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Abdominal pain",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Chest Pain",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Allergy",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Urinary Tract Infection (UTI) (Adult)",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Conjunctivitis  (Adult)",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Refractive Error",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Hypertension",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Oral Thrush",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Oedema",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Appendicitis ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Injury in any part of body",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Convulsion  (Adult)",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Diabetes Mellitus (Maternal)",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Dyspnoea",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Filariasis",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Anal Fissure",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Gall stone",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Haemorrhage",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Hemoptysis",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Malaria",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Kala azar",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Leprosy",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Tuberculosis",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Nasal polyp",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Severe Ear Problem",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Paralysis",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Poisoning (Adult)",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Severe pneumonia",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Moderate Malnutrition",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Testicular swelling",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Tonsillitis",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Tumour",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Eczema",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Hydrocele (Adult)",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Hernia (Femoral\/Inguinal)",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Family Planning",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Pill ",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Injection",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Norplant (Implant)",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "IUD (Intra-Uterine Device)",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Tubectomy\/Minilap (Permanent Method for Female)",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Vasectomy\/NSV (Permanent Method for Male)",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Family Planning Complication",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Mild Malnutrition",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Severe Malnutrition",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Over Weight",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Under Weight",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Anaemia",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Nutrition",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Allergic Conjunctivitis (Adult)",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Cataract (Adult)",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Injury (Child)",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Corneal Ulcer (Adult)",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Blepharitis (Adult)",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Night Blindness (Adult)",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Blurred Vision (Adult)",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Foreign Body in the eye (Adult)",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Glucoma (Adult)",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Myopia (Adult)",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Hygiene",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Low Birth Weight",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Cough and Cold (Adult)",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Cough and Cold (Child)",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Bacillary Dysentery (Adult)",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Allergic Conjunctivitis (Child)",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Cataract (Child)",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Corneal Ulcer (Child)",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Blepharitis (Child)",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Night Blindness (Child)",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Blurred Vision (Child)",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Foreign Body in the eye (Child)",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Glucoma (Child)",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Myopia (Child)",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Diarrhoea",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Snake biting",
+    "organization": "2",
+    "is_global": "1"
+  }
+]

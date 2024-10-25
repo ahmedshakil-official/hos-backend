@@ -1,0 +1,522 @@
+[
+	{
+		"name" : "",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "0.3 % Chlorhexidine gluconate an",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Albendazole 200mg/5ml",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Albendazole 400mg/tablet",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Amoxycillin 125mg/1.25ml",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Amoxycillin 125mg/5ml",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Amoxycillin 250mg/capsule",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Amoxycillin 500mg/capsule",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Antacid Plus",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Antacid Syrup",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Antacid Tablet",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Ascorbic acid 250mg/tablet",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Benzoic acid 6% &amp; Salicylic acid 3%",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Benzylbenzoate 25% Emulsion",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Calcium Carbonate 250mg/tablet",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Calcium carbonate 500mg &amp; Vitmin D3  200 i.u/tablet",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Calcium Carbonate 500mg/tablet",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Cefixime trihydrate 125mg/5ml",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Cefixime trihydrate 200mg/capsule",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Cefixime trihydrate 400mg/capsule",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Chloramphenicol 0.5%/eye or ear drop",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Chlorhexidine gluconate 0.3% w/v + cetrimide 3% w/v solution",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Chlorhexidine hydrochloride 0.1% &amp; cetrimide 0.5%",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Chloroxylenol 1.3% solution",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Chlorpheniramine maleate 2mg/5ml",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Chlorpheniramine maleate 4mg/tab",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Ciprofloxacin 250mg/tablet",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Ciprofloxacin 500mg/tablet",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Clotrimazole 1%",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Cloxacilline",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Cloxacilline-500",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Combined Pill",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Condom 1",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Condom 2",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Condom 3",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Cotrimoxazole 240 mg/5ml",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Cotrimoxazole 480mg/tablet",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Cotrimoxazole 960mg/tablet",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Delivery kit box",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Delivery Kit Box-2",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Dexibuprofen",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Doxycycline 100mg/capsule",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Dried ALOH gel BP 250mg, MGOH BP 200mg, MGTR 370mg / tablet",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Dried aluminium hydroxide gel BP",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Drotaverine hydrochloride 40mg/tablet",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "ECP",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "ECP-2",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Erythromycin 125mg/5ml",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Erythromycin 250mg/tablet",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Erythromycin 500mg/tablet",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Ferrous Fumerate + Folic Acid",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Ferrous Fumerate 200mg + Folic acid 200mcg/tablet",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Flucloxacilline 500mg",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Fluconazole 150mg /capsule",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Fluconazole 50mg/capsule",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Folic Acid 5mg/tablet",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Gentamicin sulphate 0.3%",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Hyoscine butylbromide 10mg /tablet",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Hyoscine butylbromide 20mg/tablet",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Ibuprofen 200mg/tablet",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Ibuprofen 400mg/tablet",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Ibuprofen BP 100mg/5ml",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Iodized Salt",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Iron C 50mg and FA 500mcg/capsule.",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Iron C+ FA.50mg + Zinc sulfate 6I.80mg/capsule",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Levonogestrel",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Loraditine 10mg/tablet",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Magnecsium Hydroxide BP",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Metronidazole 200mg/5ml",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Metronidazole 400mg/tablet",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Micronutrient",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Micronutrient FS",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Omeprazole 20mg/Capsule",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "ORS 1/2 litre",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Paracetamol 120mg/5ml, 100ml",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Paracetamol 120mg/5ml, 60ml",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Paracetamol 500mg",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Paracetamol 80mg/ml",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Permethrin 5%",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Permethrin 5% w/w",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Phenoxymethyl penicillin 125mg/5ml",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Phenoxymethyl penicillin 500mg/tablet",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Phenoxymethyle Penicillin 250mg/tablet",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Povidone-iodine 10% w/v solution",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Pregnancy Test",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Pyrantel pamoate 50mg/ml",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Ranitidine 150mg",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Riboflavin 5mg/tablet",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Salbutamol 2mg/5ml syrup",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Salbutamol 4mg/tablet",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Salt",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Sanatary Nepkin",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Sanatary Nepkin-2",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Soap",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Sodium Chloride BP 0.9%",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Tetracycline hydrochloride 1%",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Unilever",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Vitamin A",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Vitamin A 50,000 i.u/capsule",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Vitamin-B Complex",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Xylometazoline 0.05%",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Zinc and Folic acid Tablet",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Zinc Sulphate 10mg/5ml Syrup",
+		"is_global" : 1,
+		"organization" : 2
+	},
+	{
+		"name" : "Zinc sulphate 20mg/tablet",
+		"is_global" : 1,
+		"organization" : 2
+	}
+]

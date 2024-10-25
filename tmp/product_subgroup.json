@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Amoebicides",
+    "group": "Medicine",
+    "is_global": 1,
+    "organization": 2
+  },
+  {
+    "name": "Analgesics",
+    "group": "Medicine",
+    "is_global": 1,
+    "organization": 2
+  },
+  {
+    "name": "Anthelmentic",
+    "group": "Medicine",
+    "is_global": 1,
+    "organization": 2
+  },
+  {
+    "name": "Antibiotics",
+    "group": "Medicine",
+    "is_global": 1,
+    "organization": 2
+  },
+  {
+    "name": "Topical Antifungal",
+    "group": "Medicine",
+    "is_global": 1,
+    "organization": 2
+  },
+  {
+    "name": "Antacid",
+    "group": "Medicine",
+    "is_global": 1,
+    "organization": 2
+  },
+  {
+    "name": "Antifungal",
+    "group": "Medicine",
+    "is_global": 1,
+    "organization": 2
+  },
+  {
+    "name": "Antihistamines",
+    "group": "Medicine",
+    "is_global": 1,
+    "organization": 2
+  },
+  {
+    "name": "Antiseptics",
+    "group": "Medicine",
+    "is_global": 1,
+    "organization": 2
+  },
+  {
+    "name": "Antispasmodics",
+    "group": "Medicine",
+    "is_global": 1,
+    "organization": 2
+  },
+  {
+    "name": "Bronchodilators",
+    "group": "Medicine",
+    "is_global": 1,
+    "organization": 2
+  },
+  {
+    "name": "Contraceptives",
+    "group": "Medicine",
+    "is_global": 1,
+    "organization": 2
+  },
+  {
+    "name": "Diagnostics",
+    "group": "Medicine",
+    "is_global": 1,
+    "organization": 2
+  },
+  {
+    "name": "Micronutrients",
+    "group": "Medicine",
+    "is_global": 1,
+    "organization": 2
+  },
+  {
+    "name": "Minerals",
+    "group": "Medicine",
+    "is_global": 1,
+    "organization": 2
+  },
+  {
+    "name": "NSAID",
+    "group": "Medicine",
+    "is_global": 1,
+    "organization": 2
+  },
+  {
+    "name": "Proton Pump Inhibitors",
+    "group": "Medicine",
+    "is_global": 1,
+    "organization": 2
+  },
+  {
+    "name": "Salt",
+    "group": "Medicine",
+    "is_global": 1,
+    "organization": 2
+  },
+  {
+    "name": "Toileteries",
+    "group": "Medicine",
+    "is_global": 1,
+    "organization": 2
+  },
+  {
+    "name": "Topical Antiparasitic",
+    "group": "Medicine",
+    "is_global": 1,
+    "organization": 2
+  },
+  {
+    "name": "Vitamins",
+    "group": "Medicine",
+    "is_global": 1,
+    "organization": 2
+  },
+  {
+    "name": "Antiseptics",
+    "group": "Medicine",
+    "is_global": 1,
+    "organization": 2
+  },
+  {
+    "name": "Antacid",
+    "group": "Medicine",
+    "is_global": 1,
+    "organization": 2
+  },
+  {
+    "name": "Contraceptives",
+    "group": "Medicine",
+    "is_global": 1,
+    "organization": 2
+  },
+  {
+    "name": "Vitamin+Minerals",
+    "group": "Medicine",
+    "is_global": 1,
+    "organization": 2
+  }
+]

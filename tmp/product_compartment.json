@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Tablet & Capsule",
+        "description": "",
+        "priority": "10"
+    },
+    {
+        "name": "Surgical Items",
+        "description": "",
+        "priority": "8"
+    },
+    {
+        "name": "Syrup",
+        "description": "",
+        "priority": "7"
+    },
+    {
+        "name": "Pots",
+        "description": "",
+        "priority": "9"
+    },
+    {
+        "name": "Strips",
+        "description": "",
+        "priority": "6"
+    },
+    {
+        "name": "Coupons",
+        "description": "",
+        "priority": "11"
+    },
+    {
+        "name": "Pads and Diaper",
+        "description": "",
+        "priority": "1"
+    },
+    {
+        "name": "Non Surgical",
+        "description": "",
+        "priority": "1"
+    }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Accounts",
+    "description": "none",
+    "is_global": 1,
+    "organization": "2",
+    "department": "Petigems",
+    "status": 1
+  },
+  {
+    "name": "Accounts Manager",
+    "description": "none",
+    "is_global": 1,
+    "organization": "2",
+    "department": "Petigems",
+    "status": 1
+  },
+  {
+    "name": "Accounts",
+    "description": "none",
+    "is_global": 1,
+    "organization": "2",
+    "department": "Portica",
+    "status": 1
+  },
+  {
+    "name": "Accounts Manager",
+    "description": "none",
+    "is_global": 1,
+    "organization": "2",
+    "department": "Portica",
+    "status": 1
+  }
+]

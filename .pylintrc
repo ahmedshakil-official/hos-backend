@@ -1,0 +1,26 @@
+[MASTER]
+
+# Ignore docstrings
+ignore-docstrings=yes
+
+# Docstring min length
+docstring-min-length=10
+
+# ignore migrations
+ignore=migrations
+
+[FORMAT]
+max-line-length=120
+
+[BASIC]
+
+no-docstring-rgx=__.*__
+method-rgx=(([a-z_][a-z0-9_]{2,50})|(setUp)|(tearDown))$
+good-names=logger
+
+
+[MESSAGES CONTROL]
+
+disable= C0111, E1101, locally-disabled, no-self-use, too-many-ancestors,
+        logging-format-interpolation, too-few-public-methods, duplicate-code,
+        no-absolute-import, useless-object-inheritance, bad-option-value

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "BP",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Weight",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Height",
+    "organization": "2",
+    "is_global": "1"
+  },
+  {
+    "name": "Blood Sugar",
+    "organization": "2",
+    "is_global": "1"
+  }
+]

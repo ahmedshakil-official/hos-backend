@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Medicine",
+    "is_global": 1,
+    "organization": 2
+  },
+  {
+    "name": "Surgical Equipment",
+    "is_global": 1,
+    "organization": 2
+  }
+]

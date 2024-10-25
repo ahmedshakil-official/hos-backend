@@ -1,0 +1,63 @@
+*.pyc
+*.py.orig
+*.swp
+.idea
+.DS_Store
+dump.rdb
+assets/build.js
+assets/main.js
+node_modules/
+bower_components/
+assets/
+static/
+invoices/*
+client/tmp
+media
+venv
+env
+logs
+staticfiles/*
+sftp-config.json
+*.codekit
+.codekit-cache
+config.codekit
+*-ck.js
+.sass-cache
+.vscode
+!react_app/src/assets/
+
+# the selenium driver logs
+geckodriver.log
+chromedriver.log
+
+
+# Ignore the yarn and npm temp files
+yarn.lock
+yarn-error.log
+package-lock.json
+
+# Ignore the celery beat files
+celerybeat.pid
+celerybeat-schedule
+
+# Environment files
+.env
+
+# Crontab log files
+projectile/projectile/scheduled_jobs.log
+
+# SMS log
+sms-log.csv
+
+# Ignore the assets and static of fingerprint directory for now
+!fingerprint/**/assets/
+!fingerprint/**/static/
+
+# Ignore DB of Json Server
+react_client/json-server/db.json
+.ipynb_checkpoints/
+# Storybook
+storybook-build/
+# VS Code workspace
+*.code-workspace
+/Untitled.ipynb

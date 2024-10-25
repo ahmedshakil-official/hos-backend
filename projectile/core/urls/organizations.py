@@ -1,0 +1,146 @@
+from django.urls import path
+from ..views.organization_setting import (
+     OrganizationSettings,
+     OrganizationSettingDetails,
+)
+from ..views.common import (
+     SimilarOrganizationListByAreaWithMatchingScore,
+)
+from ..views.organizations import (
+     DistributorOrganizationCredential,
+)
+from ..views.person_organization import (
+     PersonOrganizationPermissionList,
+     PersonOrganizationPermissionDetails,
+     OrganizationPersonGetOrCreate,
+)
+from ..views.group_permission import (
+     OrganizationPermissionGroupList,
+     OrganizationPermissionGroupDetails,
+     OrganizationEmployeePermissionGroupList,
+     OrganizationEmployeePermissionList,
+)
+from ..views.person import (
+     OrganizationList,
+     OrganizationDetails,
+     OrganizationInsights,
+)
+from ..views import public
+from ..views.organization import (
+     OrganizationPossiblePrimaryResponsiblePerson,
+     OrganizationBulkUpdate,
+     OrganizationLocationUpdate,
+     CountOrganizationsByLocation,
+     OrganizationShortInfoList,
+     OrganizationGeoLocationInfoList,
+     OrganizationNetSalesReport,
+     OrganizationHistory,
+)
+
+urlpatterns = [
+     path(
+          'settings/',
+          OrganizationSettings.as_view(),
+          name='organization-settings'
+     ),
+     path(
+          'settings/<uuid:alias>/',
+          OrganizationSettingDetails.as_view(),
+          name='organization-settings-details'
+     ),
+     path(
+          '<uuid:organization_alias>/similar/',
+          SimilarOrganizationListByAreaWithMatchingScore.as_view(),
+          name='similar-organization-list'
+     ),
+     path(
+          "net-sales-report/",
+          OrganizationNetSalesReport.as_view(),
+          name="organization-net-sales-report"
+     ),
+     path(
+          '<uuid:organization_alias>/distributor-buyer-credential/',
+          DistributorOrganizationCredential.as_view(),
+          name='distributor-buyer-credential'
+     ),
+     path(
+          'person-permissions/',
+          PersonOrganizationPermissionList.as_view(),
+          name='person-organization-permission-list'
+     ),
+     path(
+          'person-permissions/<uuid:alias>/',
+          PersonOrganizationPermissionDetails.as_view(),
+          name='person-organization-permission-details'
+     ),
+     path(
+          'persons/get-or-create/',
+          OrganizationPersonGetOrCreate.as_view(),
+          name='organization-person-get-or-create'
+     ),
+     path(
+          '',
+          OrganizationList.as_view(),
+          name='organization-list'
+     ),
+     path(
+          '<uuid:alias>/',
+          OrganizationDetails.as_view(),
+          name='organization-details'
+     ),
+     path(
+          "<uuid:alias>/insights/",
+          OrganizationInsights.as_view(),
+          name="organization-insights",
+     ),
+     path(
+          'permission-group/',
+          OrganizationPermissionGroupList.as_view(),
+          name="organization-permission-group-list"
+     ),
+     path(
+          'permission-group/<uuid:alias>/',
+          OrganizationPermissionGroupDetails.as_view(),
+          name="organization-permission-group-details"
+     ),
+     path(
+          'permission-group/employee/',
+          OrganizationEmployeePermissionGroupList.as_view(),
+          name="organization-employee-permission-group-list"
+     ),
+     path(
+          'persons/employee/<uuid:alias>/',
+          OrganizationEmployeePermissionList.as_view(),
+          name="organization-employee-permission-list"
+     ),
+     path(
+          'bulk-update/',
+          OrganizationBulkUpdate.as_view(),
+          name="organization-bulk-update"
+     ),
+     path(
+          "log/<uuid:alias>/",
+          OrganizationHistory.as_view(),
+          name="organization-history-log",
+     ),
+     path(
+          'location/<uuid:alias>/',
+          OrganizationLocationUpdate.as_view(),
+          name="organization-location-update"
+     ),
+     path(
+          'location/count/',
+          CountOrganizationsByLocation.as_view(),
+          name='organization-count-by-location',
+          ),
+     path(
+          'short-info/',
+          OrganizationShortInfoList.as_view(),
+          name='organization-short-info',
+          ),
+     path(
+          'geo-location-info/',
+          OrganizationGeoLocationInfoList.as_view(),
+          name='organization-geo-location-info',
+     ),
+]

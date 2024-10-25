@@ -1,0 +1,2187 @@
+[
+
+ {
+   "Code": "GDC001622",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": true,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001217",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": true,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001761",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": false,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": true,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001877",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": false,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": true,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC002064",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": true,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC002327",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": true,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001129",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": true,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001180",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": true,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001207",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": true,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001255",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": true,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001563",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": true,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC002176",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": true,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001606",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": false,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": true,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001942",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": true,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001079",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": true,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001739",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": true,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001065",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": true,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001960",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": true,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001438",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": true,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001758",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": false,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": true,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001435",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": true,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001181",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": true,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001311",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": true,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001393",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": true,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001668",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": true,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001798",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": true,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001444",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": true,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001286",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": true,
+   "Hepatitis C Positive": true,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001814",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": false,
+   "Hepatitis B Positive": true,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001598",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": false,
+   "Hepatitis B Positive": true,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001213",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": true,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001604",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": false,
+   "Hepatitis B Positive": true,
+   "Hepatitis C Positive": true,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001551",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": true,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001208",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": true,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC003491",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001971",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001228",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": false,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001812",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC003490",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": false,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001005",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": false,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001447",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001226",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001498",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001488",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": false,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001216",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": false,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001542",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001385",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001780",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC002419",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001307",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": false,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC004058",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001760",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC002438",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001997",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001306",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC003978",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC003886",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC002405",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001476",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": false,
+   "Hepatitis B Positive": true,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC003451",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001964",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": true,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001124",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": false,
+   "Hepatitis B Positive": true,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001170",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": true,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001293",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": false,
+   "Hepatitis B Positive": true,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001164",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": false,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": true,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001656",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": true,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001164",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": true,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001152",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": true,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001544",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": true,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001437",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": true,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001770",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": true,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001478",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": true,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001166",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": true,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001496",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": true,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC002251",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": false,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": true,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC002601",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": true,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001131",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": true,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001205",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": true,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001636",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": true,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001592",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": true,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001173",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": false,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": true,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC002062",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": false,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": true,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001180",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": false,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": true,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001428",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": true,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001470",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": false,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": true,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001433",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001615",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": false,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001292",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001440",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001174",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC002785",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001685",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001169",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001484",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": false,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC002341",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": false,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001769",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC002248",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001595",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC002560",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": false,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001441",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001745",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001172",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001939",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC002952",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001807",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001671",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001332",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001900",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC003895",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001670",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001342",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001850",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC002938",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC003159",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC004201",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC002427",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC003168",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC004569",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC003035",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC002888",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC002328",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC002416",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC002579",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC003968",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC002153",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC003241",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC004490",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001669",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC004006",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC004079",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001679",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC002541",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC002531",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC003972",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC002197",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC003532",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001508",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001397",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001183",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001796",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001417",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC002312",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001388",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC002934",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC004622",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001651",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC002921",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC002408",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC004265",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC002673",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001836",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001037",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC004174",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC003957",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC004235",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001828",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC003038",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC002668",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC003914",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC003969",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC003765",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC002140",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC003674",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC002095",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001509",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001485",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC002298",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001481",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC002432",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC002885",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001889",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC003882",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001158",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": false,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001042",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001483",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001665",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001833",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC002046",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC004150",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC002421",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC003728",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC004244",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": false,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC004158",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": false,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC002150",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001847",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": false,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001156",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC004505",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC004623",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC003652",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC002413",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001908",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001345",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC002385",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC004421",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC004356",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC002856",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001691",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC003628",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC002149",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC003951",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC003239",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC002581",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC002972",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC002084",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC002396",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001497",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001256",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC002613",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001401",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001231",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001071",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC004462",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC002142",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001937",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001194",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC002242",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001223",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001689",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC002466",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC002619",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC003810",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC002383",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC003036",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC004422",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC004240",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001238",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC004440",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001127",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC002536",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC002189",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001717",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC003245",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001869",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001586",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC002351",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001913",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC002972",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001400",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001297",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": false,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC004646",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001929",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC003219",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001966",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC002425",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001560",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC002444",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC002581",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC002729",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC002972",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC003951",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC002149",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC002084",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC003624",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC002396",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001497",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001256",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001368",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC002054",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001896",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC002361",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001084",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC003496",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001936",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC002833",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001654",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC002487",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001495",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001430",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC001295",
+   "Diabetes Mellitus (Adult)": false,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC003000",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC004626",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ },
+ {
+   "Code": "GDC002400",
+   "Diabetes Mellitus (Adult)": true,
+   "Hypertension": true,
+   "Hepatitis B Positive": false,
+   "Hepatitis C Positive": false,
+   "Organization": "1"
+ }
+]
